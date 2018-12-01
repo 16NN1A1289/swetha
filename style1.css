@@ -1,0 +1,86 @@
+body{
+  background:lightgreen;
+
+}
+.maindiv{
+  background-color:pink;
+  margin:7%;
+  border-radius:3%;
+  display: flex;
+
+
+}
+.lefttdiv{
+  background-color:green;
+  margin:0%;
+  border-radius: 2%;
+  box-shadow: 3px 3px 3px 3px yellow;
+  height:70%;
+  width:25%;
+  text-align:center;
+  position:relative;
+  width:25%;
+}
+.righttdiv
+{
+  background-color:lightblue;
+  margin:0%;
+  border-radius:5%;
+  box-shadow: 3px 3px 3px 3px green;
+  padding:5%;
+  height: 100%;
+  width: :100%;
+  margin:0%;
+  margin-top:4%;
+  padding:2%;
+}
+img{
+  margin:3%;
+  height:40%;
+  width: 70%;
+
+}
+@media only screen and (min-width:481px) and (max-width:1020px) {
+body{
+  background: green;
+}
+  .maindev{
+    background:blue;
+    margin:3%;
+    border-radius:20%;
+    display:flex;
+
+    }
+}
+.lefttdiv{
+  background-color:green;
+  margin:3%;
+  border-radius: 2%;
+  box-shadow: 3px 3px 3px 3px yellow;
+  text-align: center;
+  width:100%;
+  margin-top: 0%;
+}
+}
+@media only screen and (min-width:200px) and (max-width:400px) {
+
+  body{
+    background: green;
+  }
+    .maindev{
+      background:blue;
+      margin:1%;
+      border-radius:20%;
+      display:inline-line;
+      width: 90%;
+
+}
+.rightdiv{
+  background-color:skyblue;
+  margin: 2%;
+  border-radius:5px;
+  box-shadow:3px 3px 3px 3px green;
+   padding: 2%;
+   margin-top:15%;
+}
+}

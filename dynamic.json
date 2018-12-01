@@ -1,0 +1,46 @@
+{
+  "career":{
+    "info":"TO work in an environment"
+  },
+
+"education":[
+
+  {
+     "degree":"b.tech(It)",
+      "Institution" :"vignan",
+      "yop":"2020",
+      "percentage":"80"
+},
+{
+"degree":"intermediate",
+ "Institution" :"srichitanya",
+ "yop":"2016",
+ "percentage":"85"
+},
+{
+"degree":"s.s.c",
+ "Institution" :"vignan",
+ "yop":"2014",
+ "percentage":"80"
+}
+
+
+],
+"skills":[
+  {
+    "title":"platforms",
+    "content":"windows,linux"
+
+  },
+  {
+  "title":"programing languages",
+  "content":"c,c++,java,python"
+},
+{
+"title":"database",
+"content":"mysql,mongodb"
+}
+],
+"languages":"telugu,english,hindi"
+
+}
